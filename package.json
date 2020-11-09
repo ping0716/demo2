@@ -1,7 +1,7 @@
 {
   "name": "@uniswap/interface",
   "description": "Uniswap Interface",
-  "homepage": "https://ping0716.github.io/aswap",
+  "homepage": "https://ping0716.github.io/demo2",
   "private": true,
   "devDependencies": {
     "@ethersproject/experimental": "^5.0.1",
